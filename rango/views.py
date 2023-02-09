@@ -4,6 +4,8 @@ from rango.models import Category, Page
 from rango.forms import CategoryForm, PageForm
 from django.shortcuts import redirect
 from django.urls import reverse
+from rango.forms import UserForm, UserProfileForm
+
 
 
 def index(request):
