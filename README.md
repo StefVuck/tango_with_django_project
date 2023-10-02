@@ -1,5 +1,6 @@
-# tango_with_django_project
+# Tango With Django Project
 
+This is the full worked solution of the first 10 chapters of the Tango With Django workbook, as required by us for the 2nd Year Computer Science course: Web App Development @ University of Glasgow
 
-Its come to my attention around Chapter 8, that a lot of my templates havent actually uploaded to git. If this breaks the tester, please contact me. 
-As of doing all the tests they all worked fine
+## Note:
+The repo for the main coursework, the group project is not available publically, this is the only aspect of this course I'm permitted to show publically.
